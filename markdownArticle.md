@@ -107,4 +107,4 @@ My Markdown to-do list:
 
 Markdown is way easier than I expected. It's just plain text with a few symbols, but it makes my notes and GitHub projects look *so much* cleaner. I'm still a noob, but now I know enough to write a proper `README.md` for my projects.
 
-Thanks for reading! 🙂
+Thanks for reading!
